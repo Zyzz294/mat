@@ -1,0 +1,9 @@
+Integral, matematikte bir fonksiyonun belirli bir aralıkta toplamını hesaplamak için kullanılan bir yöntemdir. Integral, fonksiyonun belirli bir aralıkta değiştiği bölgenin alanını hesaplamak için kullanılır.
+
+Integral, iki tür olabilir: sınırlı integral ve sınırsız integral. Sınırlı integral, belirli bir aralıkta fonksiyonun toplamını hesaplar, iken sınırsız integral ise fonksiyonun tüm aralıkta toplamını hesaplar.
+
+Integral, çok sayıda uygulama alanına sahiptir. Örneğin, fizikte ve mühendislikte fonksiyonların alanlarını hesaplamak için kullanılır. Aynı zamanda, finans ve ekonometrik modellerde de integral kullanılır.
+
+Integrali çözmek için birçok yöntem vardır. En yaygın olanları arasında; Çizelge yöntemi, Çizgi integrali yöntemi, parçalı fonksiyonlar yöntemi ve uzay yöntemi.
+
+Sonuç olarak, integral matematikte fonksiyonların belirli bir aralıkta toplamlarını hesaplamak için kullanılan önemli bir yöntemdir. Integralin birçok uygulama alanı vardır ve çözümü için birçok yöntem mevcuttur. Öğrenmek için integral önemlidir çünkü fizik, mühendislik, finans ve ekonometrik modellerde kullanılır ve birçok uygulama alanına sahiptir.
